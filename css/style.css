@@ -1,6 +1,6 @@
 *{
     margin: 0;
-    padding: 0;
+    padding: 0px;
 }
 
 :root{
@@ -52,7 +52,7 @@
     color: white;
     display: block;
     text-decoration: none;
-    padding: 3px 22px;
+    padding: 17px 123px;
     border-radius: 20px;
 }
 
@@ -66,7 +66,7 @@
     display: flex;
     height: 650px;
     flex-direction: column;
-    padding: 3px 200px;
+    padding: 47px 200px;
     justify-content: center;
     align-items: center;
 }
@@ -97,8 +97,9 @@
 /* Utility Classes */
 .h-primary{
     font-size: 3.6rem;
-    padding: 12px;
+    padding: 45px;
     font-family: 'Bree Serif', serif;
+    padding-bottom: 22px;
 }
 
 .h-secondary{
@@ -124,13 +125,12 @@
 
 /* Services Section Styling */
 #services{
-    margin: 10px;
+    margin: 35px;
     display: flex;
-
 }
 #services .box{
     border: 2px solid brown;
-    padding: 25px;
+    padding: 61px;
     margin: 3px 6px;
     border-radius: 28px;
     background-color:rgb(245 245 245);
